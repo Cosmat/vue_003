@@ -4,7 +4,7 @@ Then run using the node file server_001.js
 # vue_003
 
 > A Vue.js project
-
+https://github.com/Cosmat/vue_003/blob/master/1.png
 ## Build Setup
 
 ``` bash
