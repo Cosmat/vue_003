@@ -1,4 +1,4 @@
-# Befor start
+# Before start
 Please use node.js and execute the command npm install to install all project dependencies.
 Then run using the node file server_001.js
 # vue_003
